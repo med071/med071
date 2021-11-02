@@ -6,4 +6,4 @@
 
 <br />
 
-  <img align="left" alt="Med071's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=med071&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=tokyonight" />
+  <img align="left" alt="Med071's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=med071&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" />
